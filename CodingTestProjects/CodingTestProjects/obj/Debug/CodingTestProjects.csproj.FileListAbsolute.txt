@@ -1,0 +1,6 @@
+C:\Users\antho\OneDrive\Documents\GitHub\AllStarCell\CodingTestProjects\CodingTestProjects\bin\Debug\CodingTestProjects.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\AllStarCell\CodingTestProjects\CodingTestProjects\bin\Debug\CodingTestProjects.exe
+C:\Users\antho\OneDrive\Documents\GitHub\AllStarCell\CodingTestProjects\CodingTestProjects\bin\Debug\CodingTestProjects.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\AllStarCell\CodingTestProjects\CodingTestProjects\obj\Debug\CodingTestProjects.csprojResolveAssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\AllStarCell\CodingTestProjects\CodingTestProjects\obj\Debug\CodingTestProjects.exe
+C:\Users\antho\OneDrive\Documents\GitHub\AllStarCell\CodingTestProjects\CodingTestProjects\obj\Debug\CodingTestProjects.pdb
